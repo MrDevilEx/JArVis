@@ -1,0 +1,1 @@
+toilet -f mono12 -F gay -F border 'MAHADI' |lolcat -a -d 1 -t -s 100
